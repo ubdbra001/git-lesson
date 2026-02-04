@@ -2,3 +2,4 @@
 - Go to pharmacy
 - Get Lunch
 - Go home
+- Read book
